@@ -1,5 +1,3 @@
 # lawnder
 
-Repositorio de Francisco Esparza
-
-Editado - 23
+Repositorio de Francisco Resendez
